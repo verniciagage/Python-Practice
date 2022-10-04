@@ -7,7 +7,7 @@ Then write a program that lets the user type in an integer and that keeps callin
 
 Remember to convert the return value from input() to an integer with the int() function; otherwise, it will be a string value.
 
-Hint: An integer number is even if number % 2 == 0, and it’s odd if number % 2 == 1.
+*Hint: An integer number is even if number % 2 == 0, and it’s odd if number % 2 == 1.*
 
 The output of this program could look something like this:
 
